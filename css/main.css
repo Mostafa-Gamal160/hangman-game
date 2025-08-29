@@ -318,6 +318,14 @@ hr {
     justify-content: space-around;
     padding: 0 15px;
   }
+  .popup {
+    top: 29%;
+    left: 11%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 @media (max-width: 768px) {
   .container {
