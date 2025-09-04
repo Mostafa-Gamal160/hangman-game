@@ -327,7 +327,7 @@ hr {
     align-items: center;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 550px) {
   .container {
     width: 360px;
   }
